@@ -1,0 +1,10 @@
+/target
+/data
+/logs
+*.db
+*.db-journal
+.env
+.DS_Store
+*.swp
+*.swo
+*~
